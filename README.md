@@ -2,5 +2,3 @@ jgittest
 ========
 
 Nothing to see here. Move along!
-
-Something new.
