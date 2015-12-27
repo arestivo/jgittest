@@ -7,4 +7,4 @@ Look ma! No refspecs!
 
 Testing two more time! 
 
-Test push
+Test pushed
