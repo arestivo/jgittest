@@ -8,6 +8,6 @@ Look ma! No refspecs!
 Testing two more time! 
 
 Test pushed again ahead 
-Test fetch 3
+Test fetch 6
 Test pushed again behind
 Test pushed again ahead 2
